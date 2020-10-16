@@ -3,7 +3,7 @@ THIS IS PORT SCANNER
 
 # Use Code for install:
 
-git clone https://github.com/khaled-dev-loper/host-ip-PORT-checker.git
+git clone https://github.com/khaled-dev-loper/host-ip-PORT-checker-Python3.git
 
 or download it :)
 
